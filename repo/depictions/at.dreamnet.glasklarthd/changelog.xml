@@ -1,0 +1,300 @@
+
+<changelog>
+	<changes>
+		<version>5.68</version>
+		<change><![CDATA[
+		<ul>
+			<li>98 icons added.</li>
+			<li>2 icons updated.</li>
+			<li>PNG optimizing.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @cj81499, @tlunmp, @XPEric and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.67</version>
+		<change><![CDATA[
+		<ul>
+			<li>20 icons added.</li>
+			<li>13 icons updated.</li>
+			<li>Settings theme updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8 !</change>
+	</changes>
+	<changes>
+		<version>5.66</version>
+		<change><![CDATA[
+		<ul>
+			<li>12 icons added.</li>
+			<li>Update Icon's Theme Info.plist (set TextYoffset to 0).</li>
+			<li>Update Folder's Theme Info.plist (set FolderGridImageAlpha to 1).</li>
+			<li>Baseplate (iOS 13+) Theme Icon Effects renamed from 'Shadow' to 'Underlay'.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8 !</change>
+	</changes>
+	<changes>
+		<version>5.65</version>
+		<change><![CDATA[
+		<ul>
+			<li>73 icons added.</li>
+			<li>35 icons updated.</li>
+			<li>Respring Theme removed.</li>
+			<li>Folders Theme updated (darker background for better icon visibility).</li>
+			<li>Settings Theme updated.</li>
+			<li>Improved SnowBoard compatibility.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8 !</change>
+	</changes>
+	<changes>
+		<version>5.64</version>
+		<change><![CDATA[
+		<ul>
+			<li>200 icons added.</li>
+			<li>35 icons updated.</li>
+			<li>Anemone dependency removed.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @ivanov007, @cassio299, @tlunmp and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.63</version>
+		<change><![CDATA[
+		<ul>
+			<li>20 icons updated (I-J).</li>
+			<li>81 icons added.</li>
+			<li>and another 11 icons updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @ivanov007 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.62</version>
+		<change><![CDATA[
+		<ul>
+			<li>Tons of icon updates (0-H).</li>
+			<li>36 icons added.</li>
+			<li>Settings theme updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @ivanov007, @XPEric and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.61</version>
+		<change><![CDATA[
+		<ul>
+			<li>102 icons added.</li>
+			<li>23 icons updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @ivanov007, @XPEric, @cspadazzi, @eskimo and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.60</version>
+		<change><![CDATA[
+		<ul>
+			<li>175 icons added.</li>
+			<li>71 icons updated.</li>
+			<li>2 icons renamed.</li>
+			<li>Settings Theme updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @Trubbel, @XPEric and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.59</version>
+		<change><![CDATA[
+		<ul>
+			<li>50 icons added.</li>
+			<li>4 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @DerDoktor and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.58</version>
+		<change><![CDATA[
+		<ul>
+			<li>115 icons added.</li>
+			<li>41 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.57</version>
+		<change><![CDATA[
+		<ul>
+			<li>88 icons added.</li>
+			<li>16 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.56</version>
+		<change><![CDATA[
+		<ul>
+			<li>108 icons added.</li>
+			<li>15 icon updated.</li>
+			<li>Small changes in the ShareSheet.theme.</li>
+			<li>Small updates in the Info.plist's.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.55</version>
+		<change><![CDATA[
+		<ul>
+			<li>87 icons added.</li>
+			<li>12 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.54</version>
+		<change><![CDATA[
+		<ul>
+			<li>164 icons added.</li>
+			<li>6 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.53</version>
+		<change><![CDATA[
+		<ul>
+			<li>107 icons added.</li>
+			<li>15 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @sern19, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.52</version>
+		<change><![CDATA[
+		<ul>
+			<li>28 icons added.</li>
+			<li>9 icon updated.</li>
+			<li>Various updates to the "native" iOS icons.</li>
+			<li>Updated Settings Theme to match the new iOS icons.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.51</version>
+		<change><![CDATA[
+		<ul>
+			<li>48 icons added.</li>
+			<li>8 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.50</version>
+		<change><![CDATA[
+		<ul>
+			<li>55 icons added.</li>
+			<li>2 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.49</version>
+		<change><![CDATA[
+		<ul>
+			<li>113 icons added.</li>
+			<li>1 icon updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @2Qt2beStr8, @zmathiasz and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.48</version>
+		<change><![CDATA[
+		<ul>
+			<li>22 icons added.</li>
+			<li>2 icons updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.47</version>
+		<change><![CDATA[
+		<ul>
+			<li>77 icons added.</li>
+			<li>2 icons updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.46</version>
+		<change>Moved to a new (not default) repo! Glasklart package from the new repo conflicts with the old ones from ModMyi!</change>
+		<change><![CDATA[
+		<ul>
+			<li>78 icons added.</li>
+			<li>1 icon updated.</li>
+			<li>Settings theme updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.45</version>
+		<change><![CDATA[
+		<ul>
+			<li>79 icons added.</li>
+			<li>1 icon updated.</li>
+			<li>2 icons renamed.</li>
+			<li>Setting theme updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @Trubbel, @2Qt2beStr8 and @sern19 !</change>
+	</changes>
+	<changes>
+		<version>5.44</version>
+		<change><![CDATA[
+		<ul>
+			<li>138 icons added.</li>
+			<li>7 icons updated.</li>
+			<li>Settings theme updated.</li>
+		</ul>
+		]]>
+		</change>
+		<change>Thanks to @ivanov007, @Trubbel, @2Qt2beStr8, @sern19 and @TheRyanKing !</change>
+	</changes>
+</changelog>
