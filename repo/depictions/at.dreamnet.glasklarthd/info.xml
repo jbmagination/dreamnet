@@ -1,0 +1,76 @@
+<package>
+	<id>at.dreamnet.glasklarthd</id>
+	<name>Glasklart</name>
+	<version>5.68</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>13.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<!-- <package>com.anemonetheming.anemone</package> -->
+	</dependencies>
+	<descriptionlist>
+		<description>
+			<![CDATA[
+				<h5 style="text-align: center; font-weight: bold;">GLASKLART SUPPORTS IOS7, IOS8 and iOS9 (and unofficially iOS10 to iOS13).</h5>
+				<div style="text-align: center;">Glasklart works with Anemone and SnowBoard.</div>
+				<div style="text-align: center; margin-top: 10px;">Glasklart is an out-of-the-way, transparent theme that lets you really showcase your wallpaper.</div>
+				<div style="text-align: center;">Glasklart is swedish, it means&nbsp;"clear as glass".</div>
+				<div style="text-align: center;">Now includes <strong>9.500+</strong>&nbsp;high resolution icons which have&nbsp;been graciously crafted by the&nbsp;community.</div>
+				<div style="text-align: center;"><img src="https://repo.dreamnet.at/depictions/at.dreamnet.glasklarthd/screenshots/Glasklart_mockup2_iP6_white_small.png"></div>
+				<div style="text-align: center;">Need to an icon for your favorite app?<br/>Check out <a target="_blank" href="https://github.com/glasklart/hd">Glasklart on Github</a> and help make the theme even more amazing!</div>
+				<div style="text-align: center; margin-top: 10px;">The wallpaper used in the screenshots, 'Candybars', can be downloaded from my website: <a target="_blank" href="http://www.maxrudberg.com/">http://www.maxrudberg.com/</a></div>
+			]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>iPhone 6 white mockup</description>
+			<image>Glasklart_mockup2_iP6_white_small.png</image>
+		</screenshot>
+		<screenshot>
+			<description>iPhone 6 - Screen 1</description>
+			<image>screen1_small.png</image>
+		</screenshot>
+		<screenshot>
+			<description>iPhone 6 - Screen 2</description>
+			<image>screen2_small.png</image>
+		</screenshot>
+		<screenshot>
+			<description>iPhone 6 - Screen 3</description>
+			<image>screen3_small.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>98 icons added.</li>
+					<li>2 icons updated.</li>
+					<li>PNG optimizing.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @cj81499, @tlunmp, @XPEric and @dreamnet !</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Request icons @ Github !</name>
+			<url>https://github.com/glasklart/hd/issues</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Glasklart Wiki @ Github</name>
+			<url>https://github.com/glasklart/hd/wiki</url>
+			<iconclass>fa fa-wikipedia-w</iconclass>
+		</link>
+		<link>
+			<name>Glasklart @ dreamnet.at</name>
+			<url>https://glasklarthd.dreamnet.at/</url>
+			<iconclass>fa fa-link</iconclass>
+		</link>
+	</links>
+</package>
