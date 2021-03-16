@@ -6,12 +6,12 @@ A (soon-to-be) complete archive of dReAmNeT's Glasklart websites and Glasklart's
 ## Archives
 ### Sites
 - [x] repo.dreamnet.at
-- [ ] getart.dreamnet.at
-- [ ] preview.dreamnet.at
+- [x] getart.dreamnet.at
+- [x] preview.dreamnet.at
 - [ ] glasklarthd.dreamnet.at
 ### Other
 - [ ] Glasklart Classic archival
-- [ ] Glasklart GitHub repositories
+- [x] Glasklart GitHub repositories
 
 ## Thanks
 A huge thank you to:

@@ -1,0 +1,64 @@
+#@__HCP_END__@#
+
+AddDefaultCharset UTF-8
+
+<ifModule mod_rewrite.c>
+    RewriteEngine on
+    # Options +FollowSymlinks
+    RewriteCond %{HTTP_REFERER} google\.com [NC]
+    RewriteRule .* - [F]
+    RewriteBase /
+    RewriteRule ^index\.php/?$ / [L,R=301,NC]
+</ifModule>
+
+<IfModule mod_headers.c>
+    Header set Vary Accept-Encoding
+</IfModule>
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    # Default directive
+    ExpiresDefault                              "access plus 1 month"
+    # Favicon
+    ExpiresByType image/x-icon                  "access plus 1 year"
+    # cache.appcache
+    ExpiresByType text/cache-manifest           "access plus 0 seconds"
+    # Your document html
+    ExpiresByType text/html                     "access plus 0 seconds"
+    # Data
+    ExpiresByType text/xml                      "access plus 0 seconds"
+    ExpiresByType application/xml               "access plus 0 seconds"
+    ExpiresByType application/json              "access plus 0 seconds"
+    ExpiresByType text/plain                    "access plus 0 seconds"
+    # Javascript
+    ExpiresByType text/javascript               "access plus 1 month"
+    ExpiresByType application/javascript        "access plus 1 month"
+    ExpiresByType text/x-javascript             "access plus 1 month"
+    ExpiresByType application/x-javascript      "access plus 1 month"
+    # Images
+    ExpiresByType image/gif                     "access plus 1 month"
+    ExpiresByType image/png                     "access plus 0 seconds"
+    ExpiresByType image/jpg                     "access plus 0 seconds"
+    ExpiresByType image/jpeg                    "access plus 0 seconds"
+    ExpiresByType image/svg                     "access plus 1 month"
+    # Webfonts
+    ExpiresByType font/truetype                 "access plus 1 month"
+    ExpiresByType font/opentype                 "access plus 1 month"
+    ExpiresByType application/x-font-woff       "access plus 1 month"
+    ExpiresByType image/svg+xml                 "access plus 1 month"
+    ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+    # CSS
+    ExpiresByType text/css                      "access plus 1 month"
+</IfModule>
+
+<IfModule mod_deflate.c>
+    SetOutputFilter DEFLATE
+    SetEnvIfNoCase Request_URI \
+    \.(?:gif|jpe?g|png)$ no-gzip dont-vary
+</IfModule>
+
+<FilesMatch „\\.(js|css|html|htm|php|xml)$“>
+    SetOutputFilter DEFLATE
+</FilesMatch>
+#@__HCP_END__@#
+# Anything after the comment above is left alone

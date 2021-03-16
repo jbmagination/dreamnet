@@ -1,0 +1,31 @@
+RewriteEngine on
+<ifModule mod_deflate.c>
+	<filesMatch "\.(js|css)$">
+	SetOutputFilter DEFLATE
+	</filesMatch>
+</ifModule>
+
+<IfModule mod_headers.c>
+	Header set Vary Accept-Encoding
+</IfModule>
+
+<filesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+	Header set Expires "Thu, 15 Apr 2010 20:00:00 GMT"
+</filesMatch>
+
+<filesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+	Header set Cache-Control "public"
+	Header set Expires "Thu, 15 Apr 2010 20:00:00 GMT"
+</filesMatch>
+
+Header unset ETag
+FileETag None
+
+<filesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css)$">
+	Header unset Last-Modified
+</filesMatch>
+
+AddDefaultCharset UTF-8
+
+#@__HCP_END__@#
+# Anything after the comment above is left alone
